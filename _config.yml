@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://haelbu.github.io
+title: Begin
+email: haelbu@gmail.com
+author: Hailey B.
+description: My biggest issue is actually starting. My biggest fear is failure. I am my own worst enemy. I am the reason I haven't begun. <br /><br />So I must Begin.
+paginate: 5
+google_analytics: 
